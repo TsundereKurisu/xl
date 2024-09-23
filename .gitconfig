@@ -1,2 +1,2 @@
 [diff "excel"]
-    textconv = unzip -c -a
+textconv = unzip -c -aq
