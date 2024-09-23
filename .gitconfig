@@ -1,0 +1,4 @@
+[diff "excel"]
+    textconv = unzip -c -a
+# [diff "excel"]
+#     command = /Users/tsunderekurisu/ExcelCompare/exceldiff
